@@ -1,15 +1,15 @@
 # *INFORMACION PERSONAL*
 ## **nombre**
 ### *Sebastian porras rozo*
-\\
+\
 ## **carrera:**
 ### *Ingenieria de sistemas*
-\\
+\
 ## **descripcion:**
 > persona super: 
 * tranquila
 * feliz
-
+>
 ## **cancion favorita:**
 <https://youtu.be/Jtauh8GcxBY>
 ## **comida favorita:**
