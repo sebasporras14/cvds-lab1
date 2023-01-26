@@ -1,6 +1,6 @@
 # Jefer Alexis González Romero
 ## Información general
-Estudiante de ingeniería de sistemas
+Estudiante de ingeniería de sistemas.\
 Estoy viendo actualmente 5 cursos:
 1) CVDS
 2) RECO
