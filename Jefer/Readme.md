@@ -11,3 +11,11 @@ Estoy viendo actualmente 5 cursos:
 **Otra información**
 - **Semestre:** *Septimo*
 - **Edad:** *20 años*
+- [Linkedin](https://www.linkedin.com/in/AlexisGR7)
+
+![Imagen]()
+
+```
+Inserte código
+```
+
