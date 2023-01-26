@@ -1,1 +1,0 @@
-# **Jefer Alexis González Romero**
