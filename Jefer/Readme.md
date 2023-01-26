@@ -7,6 +7,6 @@ Estoy viendo actualmente 5 cursos:
 3) AUPN
 4) FCFI
 5) CLYS
-*Otra información*
+\**Otra información**
 - **Semestre:** *Septimo*
 - **Edad:** *20 años*
