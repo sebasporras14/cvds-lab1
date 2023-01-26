@@ -17,7 +17,8 @@ por otra parte estoy viendo:
 * FDGP
 * Ingles
 ## **cancion favorita:** 
-\es la mejor cancion :')
+es la mejor cancion :')
+\
 <https://youtu.be/Jtauh8GcxBY>
 ## **comida favorita:**
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/001_Tacos_de_carnitas%2C_carne_asada_y_al_pastor.jpg/640px-001_Tacos_de_carnitas%2C_carne_asada_y_al_pastor.jpg)
