@@ -1,4 +1,12 @@
-# *INFORMACION PERSONAL**
-## *nombre: Sebastian porras rozo*
+# *INFORMACION PERSONAL*
+## **nombre**
+### *Sebastian porras rozo*
 \\
-##*carrera: ingenieria de sistemas*
+## *carrera:*
+### Ingenieria de sistemas*
+\\
+## **descripcion**
+> persona super: 
+* tranquila
+* feliz
+
