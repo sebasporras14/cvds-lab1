@@ -13,7 +13,7 @@ Estoy viendo actualmente 5 cursos:
 - **Edad:** *20 años*
 - [Linkedin](https://www.linkedin.com/in/AlexisGR7)
 
-![Imagen]()
+![ProyectoPOOB](DAPOOS.jpg)
 
 ```
 Inserte código
