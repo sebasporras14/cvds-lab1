@@ -41,8 +41,8 @@ Código de los movimientos posibles que puede hacer un peón:
 		return m;
 	}
 ```
-#PARTE III - GIT BRANCHING
-##Sección "Main"
+# PARTE III - GIT BRANCHING
+## Sección "Main"
 ![Main](LearnGitBranching1.jpg)
-##Sección "Remote"
+## Sección "Remote"
 ![Main](LearnGitBranching2.jpg)
