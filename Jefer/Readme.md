@@ -1,7 +1,10 @@
 # Jefer Alexis González Romero
+
 ## Información general
+
 Estudiante de ingeniería de sistemas.\
 Estoy viendo actualmente 5 cursos:
+
 1) CVDS
 2) RECO
 3) AUPN
@@ -9,6 +12,7 @@ Estoy viendo actualmente 5 cursos:
 5) CLYS
 
 **Otra información**
+
 - **Semestre:** *Septimo*
 - **Edad:** *20 años*
 - [Linkedin](https://www.linkedin.com/in/AlexisGR7)
@@ -37,4 +41,8 @@ Código de los movimientos posibles que puede hacer un peón:
 		return m;
 	}
 ```
-
+#PARTE III - GIT BRANCHING
+##Sección "Main"
+![Main](LearnGitBranching1.jpg)
+##Sección "Remote"
+![Main](LearnGitBranching2.jpg)
