@@ -27,7 +27,6 @@ edad : 23
 signo : virgo 
 \
 redes : sin informacion
-\
 ## **comida favorita:**
 ![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.aws.nestle.recipes%2Foriginal%2F32bfcaf831e22d6d7ec102ceda99044d_Maggi_-_Chicken_Tacos.jpg&imgrefurl=https%3A%2F%2Fwww.goodnes.com%2Fes%2Fmaggi%2Frecetas%2Ftacos-de-pollo-sin-gluten%2F&tbnid=NBaoWqwCMCMBbM&vet=12ahUKEwjcksWf-_X8AhVEqIQIHdM-D6EQMygFegUIARCQAg..i&docid=alL-hI7rBSceGM&w=448&h=448&q=tacos&ved=2ahUKEwjcksWf-_X8AhVEqIQIHdM-D6EQMygFegUIARCQAg)
 \
